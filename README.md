@@ -1,2 +1,2 @@
-# Teorie_grafu_app
+# Teorie grafů
 Jednoduchá aplikace do předmětu Teorie Grafů
